@@ -9,4 +9,4 @@ A deep understanding of any social species requires a neurobiological understand
 -	Gain insight into how humans became such big-brained, other-regarding apes
 -	Gain insight into how human brains developmentally construct and pathologically lose socio-cognitive faculties
 -	Gain insight into how human brains interact and how this capacity underpins communication, culture, and society
--	Learn to read and critically assess the neuroscientific literature
+-	Learn to read and critically assess the neuroscience literature
