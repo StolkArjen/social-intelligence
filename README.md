@@ -1,13 +1,12 @@
 # Social Neurocognition
 
 ### Course Overview
-This course provides a thorough background in the newly emerging field of social cognitive neuroscience. A broad range of social phenomena is examined at multiple levels. First, at the social level including experience and behaviors. Second, at the cognitive level which deals with information processing systems. And lastly, at the neural level which deals with brain/neuronal bases of the first two levels. Topics include joint action, animal and human communication, and altered social functioning in neurological and psychiatric disorders. These topics are discussed at both general and specific (article) levels.
+A deep understanding of any social species requires a neurobiological understanding of how and why brains interact. In this culminating seminar, we will critically examine the social contexts and related challenges that forged and continue to shape human social intelligence. We will be considering evolutionary, comparative, game-theoretic, computational, developmental, and pathological aspects of our social intelligence from a neurobiological perspective. The goal is to gain insight into how humans became such big-brained other-regarding apes, and how our brains developmentally construct and pathologically lose socio-cognitive faculties, as seems to be the case in certain psychiatric and neurological disorders. Students will be expected to read and critically assess the neuroscientific literature and explore empirical opportunities for new insights on the neurobiology of human social intelligence.
 
 ![alt text](./images/chimpchess.jpg?raw=true)
 
 ### Course Learning Goals
 -	Gain insight into how humans became such big-brained, other-regarding apes
--	Gain insight into how human brains developmentally construct and pathologically lose an understanding of mind
--	Gain insight into how human brains achieve mutual understanding and how this elusive capacity underpins social interaction, culture, and society
--	Get a thorough background in neuroscientific approaches for advancing our understanding of human social phenomena  
--	Learn how to critically read the neuroscientific literature and view opposing theories and data in perspective
+-	Gain insight into how human brains developmentally construct and pathologically lose socio-cognitive faculties
+-	Gain insight into how human brains interact and how this capacity underpins communication, culture, and society
+-	Learn to read and critically assess the neuroscientific literature
